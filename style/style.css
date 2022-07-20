@@ -213,7 +213,7 @@ footer hr {
 }
 
 .footer-nav {
-    padding: 50px 0 130px 0;
+    padding: 50px 0 20px 0;
 }
 
 .footer-nav ul li {
@@ -227,6 +227,15 @@ footer hr {
     text-decoration: none;
     margin: 0 30px;
     font-weight: 500;
+}
+
+.social-icons i{
+    margin: 10px;
+    font-size: 30px;
+    padding: 10px 10px;
+    background-color: #dddddd42;
+    color: var(--font-color);
+    border-radius: 50%;
 }
 
 
